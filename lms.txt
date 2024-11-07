@@ -1,0 +1,73 @@
+Hi, all
+
+ 
+
+Welcome to the image classification lab. This lab consists of five subproblems.
+
+ 
+
+Problem1: Train convolutional neural networks
+
+Problem2: Train convolutional neural netowrks with modern deep learning techniques 
+
+Problem3: Implement modern convolutional architecture
+
+Problem4: Implement vision transformer
+
+Problem5: Design your architecture
+
+ 
+
+Advice
+
+Start early (very important). If you're familiar to PyTorch, this lab would be not to difficult. However, the computation cost is not to light!. Even if you complete all implementation in one hour, your experiment will never be completed in a single day.
+
+  
+
+Submission
+
+Your final upload MUST have the files arranged and named in this layout:
+
+* Otherwise, you will lose your points
+
+ 
+
+StudentID_StudentName.zip
+
+--models
+
+-- models/convnet.py
+
+-- models/modernconvnet.py 
+
+-- models/vit.py
+
+-- models/mymodel.py
+
+-- report.pdf
+
+-- train_convnet_v1.py
+
+-- train_convnet_v2.py
+
+-- train_modernconvnetpy
+
+-- train_vit.py
+
+-- trian_mymodel.py
+
+-- utils.py
+
+ 
+
+ 
+
++
+
+If you have questions about this lab, please email to ge_kim@seoultech.ac.kr or use Q & A board. The teaching assistant will give advices like an angel. Or ask me after our class. But note that all questions will be accepted only untill 11/15.
+
+ 
+
+ 
+
+Good luck :)
